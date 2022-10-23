@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bubbleme/static/css/main.296d083c.chunk.css",
+    "main.js": "/bubbleme/static/js/main.0efb864c.chunk.js",
+    "main.js.map": "/bubbleme/static/js/main.0efb864c.chunk.js.map",
+    "runtime-main.js": "/bubbleme/static/js/runtime-main.44bc72ba.js",
+    "runtime-main.js.map": "/bubbleme/static/js/runtime-main.44bc72ba.js.map",
+    "static/js/2.08b53f1a.chunk.js": "/bubbleme/static/js/2.08b53f1a.chunk.js",
+    "static/js/2.08b53f1a.chunk.js.map": "/bubbleme/static/js/2.08b53f1a.chunk.js.map",
+    "static/js/3.ec613fba.chunk.js": "/bubbleme/static/js/3.ec613fba.chunk.js",
+    "static/js/3.ec613fba.chunk.js.map": "/bubbleme/static/js/3.ec613fba.chunk.js.map",
+    "static/js/4.9dd1b833.chunk.js": "/bubbleme/static/js/4.9dd1b833.chunk.js",
+    "static/js/4.9dd1b833.chunk.js.map": "/bubbleme/static/js/4.9dd1b833.chunk.js.map",
+    "static/js/5.6f09795d.chunk.js": "/bubbleme/static/js/5.6f09795d.chunk.js",
+    "static/js/5.6f09795d.chunk.js.map": "/bubbleme/static/js/5.6f09795d.chunk.js.map",
+    "static/js/6.b1472fc2.chunk.js": "/bubbleme/static/js/6.b1472fc2.chunk.js",
+    "static/js/6.b1472fc2.chunk.js.map": "/bubbleme/static/js/6.b1472fc2.chunk.js.map",
+    "index.html": "/bubbleme/index.html",
+    "static/css/main.296d083c.chunk.css.map": "/bubbleme/static/css/main.296d083c.chunk.css.map",
+    "static/js/2.08b53f1a.chunk.js.LICENSE.txt": "/bubbleme/static/js/2.08b53f1a.chunk.js.LICENSE.txt",
+    "static/js/5.6f09795d.chunk.js.LICENSE.txt": "/bubbleme/static/js/5.6f09795d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44bc72ba.js",
+    "static/js/2.08b53f1a.chunk.js",
+    "static/css/main.296d083c.chunk.css",
+    "static/js/main.0efb864c.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpgirl-gum-bubble-copy"]=this["webpackJsonpgirl-gum-bubble-copy"]||[]).push([[0],{46:function(e,t,c){},52:function(e,t,c){"use strict";c.r(t);var n=c(15),s=c(32),o=(c(46),c(33)),r=c(21);function i(){return Object(r.jsx)(o.a,{scene:"https://prod.spline.design/mBTdg654hsfY5LTB/scene.splinecode"})}var b=document.getElementById("root");Object(s.createRoot)(b).render(Object(r.jsx)(n.StrictMode,{children:Object(r.jsx)(i,{})}))}},[[52,1,2]]]);
+//# sourceMappingURL=main.0efb864c.chunk.js.map
